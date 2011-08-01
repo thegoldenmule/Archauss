@@ -11,6 +11,7 @@ import flash.Lib;
 
 /**
  * A physics engine 1/10 as fast as Box2D! But only half as stupidly named!
+ * 
  * @author thegoldenmule
  */
 

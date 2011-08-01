@@ -1,5 +1,6 @@
 ﻿/**
- * ...
+ * A basic renderer using the Graphics object.
+ * 
  * @author thegoldenmule
  */
 

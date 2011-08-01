@@ -1,5 +1,6 @@
 ﻿/**
- * ...
+ * Definition of a basic circle.
+ * 
  * @author thegoldenmule
  */
 
